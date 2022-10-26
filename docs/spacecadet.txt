@@ -1,0 +1,8 @@
+Space Cadet Color Scheme
+
+Space Cadet:            #273043
+Cool Gray:              #9197ae
+Mint Cream:             #eff6ee
+Imperial Red:           #f02d3a
+Medium Candy Apple Red: #dd0426
+
